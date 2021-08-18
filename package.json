@@ -1,0 +1,25 @@
+{
+  "name": "uni-request-fun",
+  "version": "1.0.0",
+  "description": "基于Promise封装uni-app的request方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbfz/uniRequest.git"
+  },
+  "keywords": [
+    "uni-app", 
+    "请求", 
+    "weChat", 
+    "promise"
+  ],
+  "author": "liu J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbfz/uniRequest/issues"
+  },
+  "homepage": "https://github.com/kbfz/uniRequest#readme"
+}
