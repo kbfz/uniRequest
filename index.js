@@ -2,7 +2,7 @@
  * http.js
  * Date 2020-12-28 
  * author: liu 
- * uni-app 公用的请求文件
+ * uni-app 公用的请求文件 
  * @promise 
  * @async
  * @await
