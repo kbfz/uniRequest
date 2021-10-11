@@ -1,6 +1,6 @@
 {
   "name": "uni-request-fun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于Promise封装uni-app的request方法",
   "main": "index.js",
   "scripts": {
