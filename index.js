@@ -26,7 +26,7 @@ const http = (url='/',data={},method='GET') => {
                 data,
                 dataType: 'json',
                 success: (res) => {
-					resolve(res.data);
+				    resolve(res.data);
                 },
                 fail: (err) => {
                     reject(err)
